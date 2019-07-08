@@ -1,6 +1,6 @@
 # Разобраться с http
-## Methods, headers and their purpose 
-## Разобрать что такое rest api
+* Methods, headers and their purpose 
+* Разобрать что такое rest api
 
 ## Создать http сервер с двумя ендпоинтами 
 
